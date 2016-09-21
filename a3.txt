@@ -1,0 +1,21 @@
+<html> 
+
+<head> 
+
+<title>Cocina Para Todos</title> 
+
+</head> 
+
+<body> <p>
+
+<b>Bienvenido,</b></p> 
+
+<p>Estás en la página <b>
+
+Comida para Todos</b>.</p>
+ 
+<p>Aquí aprenderás recetas fáciles y deliciosas.</p> 
+
+</body> 
+
+</html>

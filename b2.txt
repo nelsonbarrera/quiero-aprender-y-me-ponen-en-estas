@@ -1,0 +1,29 @@
+<h1>Bienvenido a la primera pàgina creada por Nelson Barrera</h1>
+
+<b>Bienvenido a la primera pàgina creada por Nelson Barrera</b>
+
+<HR ZISE= 1>
+
+<HR ZISE= 20>
+
+<html>
+
+<head>
+
+<p align="center">Hola, estamos en el párrafo 1</p> 
+
+<p align="right">
+<br>
+<br>
+<br>
+<br>
+<br>
+
+Ahora hemos cambiado de párrafo</p>
+
+los problemas de no saber programar
+
+</head>
+... Mañana nos vemos ...
+
+</html>
